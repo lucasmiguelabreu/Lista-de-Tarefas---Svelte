@@ -7,7 +7,7 @@
 
 <h2>Execução do Projeto</h2>
 <p>Para iniciar o servidor de desenvolvimento, use o seguinte comando:</p>
-<strong>npm run dev</strong><br><br><br>
+<strong>npm run dev</strong><br><br>
 <p>Isso iniciará um servidor de desenvolvimento local em <b>http://localhost:5000</b>. Você pode abrir este URL em seu navegador para ver o projeto em execução.</p>
 
 <h2>Contribuindo</h2>
